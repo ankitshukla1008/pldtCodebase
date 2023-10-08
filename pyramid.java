@@ -1,5 +1,5 @@
 //Write a Java programme to print a pyramid structure
-import java.util.Scanner;  // important statement
+import java.util.Scanner;
 class Pyramid
  {
     void pyramidPrint(int rows)
