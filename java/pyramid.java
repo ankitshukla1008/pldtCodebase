@@ -1,3 +1,4 @@
+//Write a Java programme to print a pyramid structure
 import java.util.Scanner;
 class Pyramid
  {
